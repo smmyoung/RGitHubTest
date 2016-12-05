@@ -1,2 +1,2 @@
 # RGitHubTest
-RGitHubTest/Rtest.R
+<script src="RGitHubTest/Rtest.R"></script>
